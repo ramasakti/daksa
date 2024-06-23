@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    background: #d5f0f3;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%,
+            rgba(9, 49, 121, 1) 19%, rgba(0, 212, 255, 1) 100%);
+}
+
+h1 {
+    text-align: center;
+    font-weight: 300px;
+    color: black;
+    margin-top: 50px;
+}
+
+p {
+    text-align: center;
+}
+
+.tulisan_login {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.kotak_login {
+    border-radius: 25px;
+    width: 500px;
+    background: white;
+    margin: 80px auto;
+    padding: 30px 20px;
+}
+
+.form_login {
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+}
+
+.tombol_login {
+    border-radius: 5px;
+    background: #008080;
+    color: rgb(255, 255, 255);
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+label {
+    font-weight: bold;
+}
+
+.imglogin {
+    margin-left: 160px;
+    width: 200px;
+}
+
+.imgregister {
+    margin-left: 160px;
+    width: 200px;
+}
